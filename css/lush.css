@@ -1,0 +1,12 @@
+@charset "utf-8";
+	
+* {padding:0; margin:0;}
+body 	{font:10pt 'Nanum Gothic', sans-serif; background:white; width:414px;
+					 margin:auto; position:relative; margin-top:51.9pt;
+}
+img {max-width:100%; display:block;}
+
+section h2 {display:none; }
+embed {width:414px; height:51.9pt; border:none; overflow:hidden;
+	   position:fixed; top:0; 
+}
