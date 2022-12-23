@@ -4,6 +4,7 @@
 body 	{font:10pt 'Nanum Gothic', sans-serif; background:pink; width:414px;
 					 margin:auto; position:relative; margin-top:51.9pt;
 }
+html {scroll-behavior:smooth;}
 img {max-width:100%; display:block;}
 
 section h2 {display:none; }

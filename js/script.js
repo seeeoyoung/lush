@@ -9,7 +9,7 @@
 							$("nav").slideDown();
 							$(this).text("close");
 					} else {
-							$("nav").slideUp();
+							$("nav").slideUp(400);
 							$(this).text("menu");
 							$("embed" , parent.document).css("height" , "51.9pt");
 							i = 0;
